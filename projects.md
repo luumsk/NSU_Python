@@ -7,11 +7,11 @@
 Write a to-do list small application applying Object Oriented Programming. The to-do list must have these following abilities:
 
 - **add task**: add new task to the list. A task must contain these following attribute:
-        - id (required)
-        - title (required)
-        - description
-        - created_date (required)
-        - tags
+    - id (required)
+    - title (required)
+    - description
+    - created_date (required)
+    - tags
 - **get all tasks**: return all tasks in the list
 - **get a task**: return a task by task id
 - **remove task**: remove a task from a list by a task_id
@@ -56,7 +56,7 @@ Your task is to validate the quality of data, analyse data , and visualize the f
 
 - Analyze data:
     - Pick any 5 fields in the dataset and present to me what you found by analysing each individual field, for example, central tendency, outliers
-    - Combine at least 2 pairs of fields and tell me what you found, for example, correlation betwwen 2 fields
+    - Combine at least 2 pairs of fields and tell me what you found, for example, correlation between 2 fields
     - Answering this question: If I am an experienced level Data Scientist looking for a full-time job in a small size company in Europe, in term of salary, which are the top 3 countries I should aim for?
 
 - Visualization:
