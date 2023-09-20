@@ -105,3 +105,7 @@ Final coding exam
 - Date & Time: **10:50 GMT+7 on Thursday, 02.11.2023**
 - Final coding exam consists of 5-10 coding exercises related to topics discussed during the course.
 - Final coding exam accounts for 50% of your final grade.
+
+## 5.Materials
+
+- [q&a](q&a.md): Questions occured during the class and their answers
