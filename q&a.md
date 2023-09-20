@@ -11,6 +11,6 @@ Questions occured during class
     - Numeric zero of all types
     - Empty strings and containers (including strings, tuples, lists, dictionaries, sets and frozensets)
 
-- The expression `13 and 45` first evaluates `13`; if `13` is false, its value is returned; but `13` is true because it does not belong to the above, therefore `45` is evaluated and the resulting value is returned.
+- The expression `13 and 45` first evaluates `13`; if `13` is false, its value is returned; but `13` is true because it does not belong to the above, therefore `45` is evaluated, `45` is also true, so the value `45` is returned.
 
 
