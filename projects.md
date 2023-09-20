@@ -20,6 +20,7 @@ Write a to-do list small application applying Object Oriented Programming. The t
 
 #### 1.2. Requirements
 - All methods mentioned above must be implemented.
+- Follow OOP concepts.
 - Handling exceptions with clear messages return if errors or task not found.
 - Documenting: Write docstrings or a separate document to explain how to use your to-do list.
 - Database: You can use any form of database, a CSV/JSON/TXT file or a small database to store your data.
