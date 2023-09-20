@@ -67,6 +67,7 @@ Format of submisison: Github repo or a jupyter notebook
 #### 2.3. How do I test your work?
 
 - The purpose of this test is to evaluate your ability to use Python as a tool for data manipulation and visualization, the quality of the analysis findings will not be graded, but extra point for creativity findings.
-- You must answer the analysis questions correctly.
+- I will check your work of data manipulation, your analysis and visualization. Your work must contain the minimum requirements and you must answer the analysis question above correctly.
+- I will ask you 1-2 questions regarding your work.
 
 **DEADLINE**: **10:50 GMT+7 on Thursday, 02.11.2023**
