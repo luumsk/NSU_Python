@@ -25,21 +25,22 @@ Lecture and lab:
 - Data structures: Lists.
 - Data structures: Tuples and Sets.
 
-Graded Assignment
+Graded Assignment 1
 
 #### Week 3: Python Basics and Data Structures II (25.09-01.10)
 
 Lecture and lab:
 - Data structures: Dictionaries.
 - Working with strings and regular expressions.
-- Handling exceptions and reading/writing files.
-- Working with functions.
+- Handling exceptions
+- Read and write files.
 
-Graded Assignment
+Graded Assignment 2
 
 #### Week 4: Object-Oriented Programming (OOP) and Modules (02.10-08.10)
 
 Lecture and lab:
+- Working with functions.
 - Introduction to OOP basics.
 - Classes, objects, methods, and attributes.
 - Virtual environments for project isolation.
@@ -57,7 +58,7 @@ Lecture and lab:
 - Loading and exploring datasets using pandas.
 - Data cleaning, filtering, and handling missing values.
 
-Graded Assignment
+Graded Assignment 3
 
 #### Week 6: Data Analysis with Pandas (16.10-22.10)
 
@@ -67,7 +68,7 @@ Lecture and lab:
 - Applying functions and transformations.
 - Visualizing data using pandas built-in capabilities.
 
-Graded Assignment
+Graded Assignment 4
 
 #### Week 7: Data Visualization with Matplotlib and Seaborn (23.10-29.10)
 
@@ -76,7 +77,7 @@ Lecture and lab:
 - Creating static and interactive plots with Matplotlib.
 - Enhancing visualizations with Seaborn.
 
-Graded Assignment
+Graded Assignment 5
 
 #### Week 8: Evaluation (30.10-05.11)
 
