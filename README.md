@@ -109,4 +109,4 @@ Final coding exam
 
 ## 5.Materials
 
-- [q&a](q&a.md): Questions occured during the class and their answers
+- [q&a](docs/q&a.md): Questions occured during the class and their answers
