@@ -1,0 +1,8 @@
+24-09-2023 [WARNING] There's a warning.
+24-09-2023 [LOG] There's a log.
+25-09-2023 [LOG] Access confidential data base.
+25-09-2023 [ERROR] Could not find data base.
+25-09-2023 [WARNING] Trying to delete data base could cause potential issues.
+26-09-2023 [WARNING] There's a warning.
+
+
