@@ -1,0 +1,12 @@
+{
+    "001": {
+        "name": "Babushka",
+        "age": 103,
+        "grade": 88
+    },
+    "002": {
+        "name": "Ivan",
+        "age": 23,
+        "grade": 98
+    }
+}
