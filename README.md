@@ -48,32 +48,36 @@ Lecture and lab:
 
 Mid-term exam (Multiple Choice Questions) to assess understanding.
 
-#### Week 5: Data Manipulation with NumPy and Pandas (09.10-15.10)
+#### Week 5: Data Manipulation with NumPy (09.10-15.10)
 
 Lecture and lab:
 - Introduction to NumPy for numerical computing.
 - Creating NumPy arrays and basic array operations.
 - Indexing, slicing, and reshaping NumPy arrays.
-- Introduction to pandas Series and DataFrames.
-- Loading and exploring datasets using pandas.
-- Data cleaning, filtering, and handling missing values.
+- Universal functions, broadcasting.
+- Advanced indexing
+- I/O with Numpy
 
 Graded Assignment 3
 
 #### Week 6: Data Analysis with Pandas (16.10-22.10)
 
 Lecture and lab:
+- Introduction to Pandas Series and DataFrames.
+- Loading and exploring datasets using pandas.
+- Data cleaning, filtering, and handling missing values.
 - Data aggregation and summarization.
 - Grouping and pivoting data.
 - Applying functions and transformations.
-- Visualizing data using pandas built-in capabilities.
 
 Graded Assignment 4
 
 #### Week 7: Data Visualization with Matplotlib and Seaborn (23.10-29.10)
 
 Lecture and lab:
+
 - Introduction to data visualization.
+- Visualizing data using Pandas built-in capabilities.
 - Creating static and interactive plots with Matplotlib.
 - Enhancing visualizations with Seaborn.
 
@@ -110,3 +114,6 @@ Final coding exam
 ## 5.Materials
 
 - [q&a](docs/q&a.md): Questions occured during the class and their answers
+- [Python Doc](https://docs.python.org/3/tutorial/index.html)
+- [Numpy Doc](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [Pandas Doc](https://pandas.pydata.org/docs/user_guide/10min.html)
