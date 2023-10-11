@@ -54,9 +54,10 @@ Lecture and lab:
 - Introduction to NumPy for numerical computing.
 - Creating NumPy arrays and basic array operations.
 - Indexing, slicing, and reshaping NumPy arrays.
-- Universal functions, broadcasting.
-- Advanced indexing
-- I/O with Numpy
+- Universal functions
+- Broadcasting
+- Boolean masking
+- Fancy Indexing
 
 Graded Assignment 3
 
@@ -117,3 +118,4 @@ Final coding exam
 - [Python Doc](https://docs.python.org/3/tutorial/index.html)
 - [Numpy Doc](https://numpy.org/doc/stable/user/absolute_beginners.html)
 - [Pandas Doc](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [Python Data Science Hanbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
