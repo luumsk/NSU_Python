@@ -57,7 +57,6 @@ Lecture and lab:
 - Universal functions
 - Broadcasting
 - Boolean masking
-- Fancy Indexing
 
 Graded Assignment 3
 
