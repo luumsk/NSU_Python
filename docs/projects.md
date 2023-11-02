@@ -50,7 +50,7 @@ The file `data/data.csv` contains salary trends in the field of data in the peri
 
 #### 2.2. Requirements
 
-Your task is to validate the quality of data, analyse data , and visualize the findings:
+Your task is to validate the quality of data, analyse data, and visualize the findings:
 
 - Validate quality: Is there any missing values? If yes, handle the missing values. Are all categorical data uniform etc.
 
